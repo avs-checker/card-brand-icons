@@ -2,7 +2,7 @@
 
 支付卡 / 卡组织品牌图标 SVG 集合，供 atomcheck 项目使用。共 **49 个 SVG**。
 
-## regional/（13 个地区/小众卡组织，白底横向 logo）
+## regional/（13 个地区/小众卡组织）
 
 | 品牌 | 预览 |
 |---|---|
@@ -20,7 +20,7 @@
 | pagobancomat | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/regional/pagobancomat.svg?sanitize=true" width="120"> |
 | cabal | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/regional/cabal.svg?sanitize=true" width="120"> |
 
-## datatrans/（19 个信用卡，来自 datatrans/payment-logos，CC-BY-SA-4.0）
+## datatrans/（19 个信用卡）
 
 | 品牌 | 预览 |
 |---|---|
@@ -44,7 +44,7 @@
 | visa-alt | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/datatrans/visa-alt.svg?sanitize=true" width="120"> |
 | vpay | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/datatrans/vpay.svg?sanitize=true" width="120"> |
 
-## aaronfagan/（17 个卡片图标，flat-rounded 风格）
+## aaronfagan/（17 个卡片图标）
 
 | 品牌 | 预览 |
 |---|---|
@@ -65,15 +65,6 @@
 | paypal | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/aaronfagan/paypal.svg?sanitize=true" width="90"> |
 | unionpay | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/aaronfagan/unionpay.svg?sanitize=true" width="90"> |
 | visa | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/aaronfagan/visa.svg?sanitize=true" width="90"> |
-
-## regional/ 来源
-
-| 品牌 | 来源 |
-|---|---|
-| uatp / dankort / rupay / vpay / paypal | datatrans |
-| verve | Wikimedia（2024 官方版） |
-| girocard / bankcard / belkart / meeza / pagobancomat | Wikimedia |
-| cmi / cabal | worldvectorlogo |
 
 ## 说明
 
