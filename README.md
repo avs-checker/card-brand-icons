@@ -1,8 +1,16 @@
 # Card Brand Icons
 
-支付卡 / 卡组织品牌图标 SVG 集合，供 atomcheck 项目使用。共 **49 个 SVG**。
+支付卡 / 卡组织品牌图标 SVG 集合，共 **49 个**。
 
-## regional/（13 个地区/小众卡组织）
+## 目录
+
+| 目录 | 数量 | 说明 |
+|---|---|---|
+| `regional/` | 13 | 地区 / 小众卡组织，横向 logo |
+| `datatrans/` | 19 | 信用卡品牌 |
+| `aaronfagan/` | 17 | 卡片图标，flat-rounded 风格 |
+
+## regional/
 
 | 品牌 | 预览 |
 |---|---|
@@ -20,7 +28,7 @@
 | pagobancomat | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/regional/pagobancomat.svg?sanitize=true" width="120"> |
 | cabal | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/regional/cabal.svg?sanitize=true" width="120"> |
 
-## datatrans/（19 个信用卡）
+## datatrans/
 
 | 品牌 | 预览 |
 |---|---|
@@ -44,7 +52,7 @@
 | visa-alt | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/datatrans/visa-alt.svg?sanitize=true" width="120"> |
 | vpay | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/datatrans/vpay.svg?sanitize=true" width="120"> |
 
-## aaronfagan/（17 个卡片图标）
+## aaronfagan/
 
 | 品牌 | 预览 |
 |---|---|
@@ -65,8 +73,3 @@
 | paypal | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/aaronfagan/paypal.svg?sanitize=true" width="90"> |
 | unionpay | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/aaronfagan/unionpay.svg?sanitize=true" width="90"> |
 | visa | <img src="https://raw.githubusercontent.com/avs-checker/card-brand-icons/main/aaronfagan/visa.svg?sanitize=true" width="90"> |
-
-## 说明
-
-- 图标均为各卡组织商标，仅作技术展示用，请遵守各品牌的使用规范。
-- 地区品牌的横向 logo 采用 120×80 比例（含白底），适合在白色背景上展示。
