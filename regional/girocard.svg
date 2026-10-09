@@ -1,13 +1,10 @@
 <svg width="120" height="80" viewBox="0 0 120 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="120" height="80" rx="4" fill="white"/>
+
 <g transform="translate(27.92,7.92) scale(0.3624)"><!-- Created with Inkscape (http://www.inkscape.org/) by Marsupilami -->
 
   <defs
      id="defs668" />
-  <path
-     d="m 176.65746,172.1316 c 0,2.488 -2.03733,4.52533 -4.528,4.52533 H 4.8868 c -2.49067,0 -4.528,-2.03733 -4.528,-4.52533 V 4.88493 c 0,-2.48933 2.03733,-4.52533 4.528,-4.52533 h 167.24266 c 2.49067,0 4.528,2.036 4.528,4.52533 z"
-     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333325"
-     id="path330" />
+  
   <path
      d="M 172.472,0 H 4.54533 C 2.04533,0 0,2.04533 0,4.54533 V 172.47066 C 0,174.972 2.04533,177.016 4.54533,177.016 H 172.472 c 2.5,0 4.544,-2.044 4.544,-4.54534 V 4.54533 C 177.016,2.04533 174.972,0 172.472,0 m 0,2.02533 c 1.388,0 2.52,1.13067 2.52,2.52 v 167.92533 c 0,1.39067 -1.132,2.52134 -2.52,2.52134 H 4.54533 c -1.38933,0 -2.51866,-1.13067 -2.51866,-2.52134 V 4.54533 c 0,-1.38933 1.12933,-2.52 2.51866,-2.52 H 172.472"
      style="fill:#5dc4e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333325"
